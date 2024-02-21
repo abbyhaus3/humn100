@@ -29,7 +29,7 @@
          <item cert="high" n=".5" xml:space="default">½ teaspoon <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="Drygood">salt</objectName></item>         
          <item cert="high" n="4" xml:space="default">4 <objectName cert="high" evidence="internal" full="yes" instant="unknown" xml:space="default" type="dairy">eggs</objectName></item>         
          <item cert="high" n="2" xml:space="default">2 cups <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="drygood" xml:space="default">white sugar</objectName></item>         
-         <item>2 teaspoon <objectName>vanilla</objectName></item></list>
+         <item>2 teaspoon <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="Wetgood" xml:space="default">vanilla</objectName></item></list>
          </div>
          
          <div>
