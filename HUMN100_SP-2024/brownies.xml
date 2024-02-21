@@ -36,7 +36,7 @@
             <head>DIRECTIONS</head>
          <list><item><eventName>Preheat <objectName>oven</objectName> to 350.</eventName></item>
          <item><eventName>Grease a 9×13″ <objectName>pan</objectName></eventName> with <objectName>butter</objectName> or <objectName>cooking spray.</objectName></item>
-         <item><eventName>Make sure <objectName>oven rack </objectName>is in the middle of the <objectName>oven</objectName>.</eventName> </item>         <item><eventName>In small <objectName>microwave safe bowl,</objectName> melt <objectName>butter</objectName> and chocolate in microwave (or over double boiler).</eventName></item> <item>Allow to cool slightly.</item>
+         <item><eventName>Make sure <objectName>oven rack </objectName>is in the middle of the <objectName>oven</objectName>.</eventName> </item>         <item><eventName>In small <objectName>microwave safe bowl,</objectName> melt <objectName>butter</objectName> and <objectName>chocolate</objectName> in microwave (or over <objectName>double boiler</objectName>).</eventName></item> <item><eventName>Allow to cool slightly.</eventName></item>
          <item>Measure flour, salt, and baking powder into another small bowl.</item>
          <item><eventName>In larger mixing bowl, beat eggs thoroughly. </eventName><note>A whisk is fine</note>.</item>
          <item>Gradually add sugar.</item>
