@@ -22,8 +22,8 @@
          <div>
             <head>INGREDIENTS</head>
 
-         <list><item cert="high" xml:space="default" n="4 oz">4 oz (1 box) unsweetened chocolate</item>         
-         <item cert="high" n=".667" xml:space="default">⅔ cup butter</item>
+         <list><item cert="high" xml:space="default" n="4 oz">4 oz (1 box) <objectName>unsweetened chocolate</objectName></item>         
+         <item cert="high" n=".667" xml:space="default">⅔ cup <objectName>butter</objectName></item>
          <item cert="high" n="1.33" xml:space="default">1 ⅓ cup all purpose flour</item>         
          <item cert="high" n="1" xml:space="default">1 teaspoon baking powder</item>         
          <item cert="high" n=".5" xml:space="default">½ teaspoon salt</item>         
@@ -41,9 +41,9 @@
          <item>In larger mixing bowl, beat eggs thoroughly. A whisk is fine.</item>
          <item>Gradually add sugar.</item>
          <item>Blend chocolate mixture and vanilla into egg/sugar mixture.</item>
-         Add flour mixture, stir well.
-         Spread in the greased 9×13″ pan and bake for 25-30 minutes.
-         Cool and cut into 24 squares.</list>
+         <item>Add flour mixture, stir well.</item>
+         <item>Spread in the greased 9×13″ pan and bake for 25-30 minutes.</item>
+         <item>Cool and cut into 24 squares.</item></list>
          </div>
       </body>
   </text>
